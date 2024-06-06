@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Glitch+Pop&family=Rubik+Scribble&display=swap');
+body{
+	background-color: lightsalmon;
+}
+p{
+	font-size: 50px;
+	color: blue;
+	background-color: lightseagreen;
+	font-family: "Rubik Glitch Pop", system-ui;
+}
+ul{
+	font-size: 24px;
+	color: darkgreen;
+}
+ul.ul1 li{
+	padding-left: 15px
+}
+.ul2 li{::marker{
+	color: blue;
+	font-size: 1.1em;
+
+}

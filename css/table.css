@@ -1,0 +1,17 @@
+body{
+	background-color: lightblue;
+}
+p{
+	background-color: yellow;
+	color: blue;
+	font-size: 50px;
+}
+table{
+	border: 2px double palegoldenrod;
+	font-size: 24px;
+	width: 50%;
+}
+th,td{
+	border: 1px solid beige;
+	width: 25%;
+}
